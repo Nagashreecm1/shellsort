@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\shellsort\bin\Debug\shellsort.exe.config
+C:\dialytask\Assisted Practice\shellsort\bin\Debug\shellsort.exe
+C:\dialytask\Assisted Practice\shellsort\bin\Debug\shellsort.pdb
+C:\dialytask\Assisted Practice\shellsort\obj\Debug\shellsort.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\shellsort\obj\Debug\shellsort.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\shellsort\obj\Debug\shellsort.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\shellsort\obj\Debug\shellsort.exe
+C:\dialytask\Assisted Practice\shellsort\obj\Debug\shellsort.pdb
